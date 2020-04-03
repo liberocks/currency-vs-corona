@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/currency-vs-corona/precache-manifest.8dcb43bfc9d42429fe369a04802214b8.js"
+  "/currency-vs-corona/precache-manifest.a5ea834e317267b3b8d436b8cc877214.js"
 );
 
 self.addEventListener('message', (event) => {

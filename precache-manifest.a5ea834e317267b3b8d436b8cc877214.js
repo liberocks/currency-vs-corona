@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4db87c47be866558e33bea6dec2d7da",
+    "revision": "c10f9df1bb448d549573039f6a8e23f8",
     "url": "/currency-vs-corona/index.html"
   },
   {
-    "revision": "4219846ac55b85478ff6",
+    "revision": "81e8eaeca0998bd0489e",
     "url": "/currency-vs-corona/static/css/main.e1b9f33a.chunk.css"
   },
   {
-    "revision": "001da3bcf71173eba611",
-    "url": "/currency-vs-corona/static/js/2.5de6553e.chunk.js"
+    "revision": "4b63375f1e0c8e2da51b",
+    "url": "/currency-vs-corona/static/js/2.253f0d70.chunk.js"
   },
   {
     "revision": "88e77cb223281485d18962ec7c3695d9",
-    "url": "/currency-vs-corona/static/js/2.5de6553e.chunk.js.LICENSE.txt"
+    "url": "/currency-vs-corona/static/js/2.253f0d70.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4219846ac55b85478ff6",
-    "url": "/currency-vs-corona/static/js/main.2a159dfd.chunk.js"
+    "revision": "81e8eaeca0998bd0489e",
+    "url": "/currency-vs-corona/static/js/main.cbff26fc.chunk.js"
   },
   {
     "revision": "a7e84432e2095d0bcecd",
